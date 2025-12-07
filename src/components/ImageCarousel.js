@@ -39,6 +39,7 @@ const images = [
     src: slide6,
     alt: "Image 6",
   },
+  
 ];
 
 const ImageCarousel = () => {
