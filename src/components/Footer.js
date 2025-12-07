@@ -262,7 +262,7 @@ const Footer = () => {
               variant="body2"
               sx={{ fontSize: { xs: "0.8rem", md: "0.9rem" }, textAlign: { xs: "center", md: "left" } }}
             >
-              © 2025 Skill2Bridge. All rights reserved.
+              © 2020 Skill2Bridge. All rights reserved.
             </Typography>
           </Grid>
           <Grid item xs={12} md={6}>

@@ -6,19 +6,19 @@ import { Card, CardContent, Grid, Typography, Box } from "@mui/material";
 const technologies = [
   {
     id: 1,
-    title: "20+",
+    title: "5000+",
     description: "Students Placed",
     icon: faUserGraduate, 
   },
   {
     id: 2,
-    title: "10+",
+    title: "4000+",
     description: "Career Counsellor",
     icon: faChalkboardTeacher, 
   },
   {
     id: 3,
-    title: "100+",
+    title: "2000+",
     description: "Happy Students",
     icon: faSmile, 
   },
